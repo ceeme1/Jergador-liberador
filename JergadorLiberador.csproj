@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <EnableDefaultPageItems>false</EnableDefaultPageItems>
+    <StartupObject>JergadorLiberador.App</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Page Include="MainWindow.xaml" />
+    <ApplicationDefinition Include="App.xaml" />
+  </ItemGroup>
+</Project>

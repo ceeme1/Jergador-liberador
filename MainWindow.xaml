@@ -1,0 +1,10 @@
+<Window x:Class="JergadorLiberador.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="El Jergador Liberador" Height="350" Width="525">
+    <Grid>
+        <TextBlock Text="Bienvenido a El Jergador Liberador" 
+                   HorizontalAlignment="Center" VerticalAlignment="Center"
+                   FontSize="24" Foreground="DarkMagenta"/>
+    </Grid>
+</Window>
