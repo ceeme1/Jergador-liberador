@@ -1,0 +1,9 @@
+El Jergador Liberador es un sistema ético de limpieza digital.
+
+Al utilizar este software:
+- Usted declara que tiene derecho legal sobre el equipo.
+- Usted acepta ejecutarlo bajo su exclusiva responsabilidad.
+- No se recopilan ni transmiten datos a terceros.
+- El autor no asume responsabilidad por mal uso.
+
+Si no está de acuerdo, no use este programa.

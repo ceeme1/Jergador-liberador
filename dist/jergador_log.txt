@@ -1,0 +1,6 @@
+[2025-06-26 23:45:28] Inicio del programa.
+[2025-06-26 23:45:40] Aviso legal aceptado.
+[2025-06-26 23:45:40] Permisos de administrador verificados.
+[2025-06-26 23:45:47] Eliminación de temporales iniciada.
+[2025-06-26 23:45:47] Eliminación de temporales completada.
+[2025-06-26 23:45:47] Finalización del programa.

@@ -1,0 +1,5 @@
+Este software:
+- No recopila información personal.
+- No se conecta a Internet.
+- Solo genera registros locales.
+- Respeta completamente su privacidad.
