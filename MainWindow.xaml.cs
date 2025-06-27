@@ -6,7 +6,7 @@ namespace JergadorLiberador
     {
         public MainWindow()
         {
-            InitializeComponent();
+           InitializeComponent();
         }
     }
-}
+} 

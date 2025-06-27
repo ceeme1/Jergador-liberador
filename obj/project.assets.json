@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yjrby\\OneDrive\\Escritorio\\DAW MADAFAKA\\practicas\\tfg\\Nueva carpeta\\JergadorLiberador.csproj",
+      "projectUniqueName": "\\\\wsl.localhost\\kali-linux\\home\\ceeme1\\proyectos\\Jergador-Liberador\\Nueva carpeta\\JergadorLiberador.csproj",
       "projectName": "JergadorLiberador",
-      "projectPath": "C:\\Users\\yjrby\\OneDrive\\Escritorio\\DAW MADAFAKA\\practicas\\tfg\\Nueva carpeta\\JergadorLiberador.csproj",
+      "projectPath": "\\\\wsl.localhost\\kali-linux\\home\\ceeme1\\proyectos\\Jergador-Liberador\\Nueva carpeta\\JergadorLiberador.csproj",
       "packagesPath": "C:\\Users\\yjrby\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yjrby\\OneDrive\\Escritorio\\DAW MADAFAKA\\practicas\\tfg\\Nueva carpeta\\obj\\",
+      "outputPath": "\\\\wsl.localhost\\kali-linux\\home\\ceeme1\\proyectos\\Jergador-Liberador\\Nueva carpeta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yjrby\\AppData\\Roaming\\NuGet\\NuGet.Config"

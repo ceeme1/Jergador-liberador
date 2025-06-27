@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JergadorLiberador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9db09f9479deadc8f392147215b384bf2f95a761")]
 [assembly: System.Reflection.AssemblyProductAttribute("JergadorLiberador")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JergadorLiberador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

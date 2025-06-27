@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YHAJ9OfMQ+4=",
+  "dgSpecHash": "Si2ea+szeDM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yjrby\\OneDrive\\Escritorio\\DAW MADAFAKA\\practicas\\tfg\\Nueva carpeta\\JergadorLiberador.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\kali-linux\\home\\ceeme1\\proyectos\\Jergador-Liberador\\Nueva carpeta\\JergadorLiberador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yjrby\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
     "C:\\Users\\yjrby\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
