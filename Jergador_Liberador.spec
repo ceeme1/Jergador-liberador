@@ -3,7 +3,6 @@
 
 block_cipher = None
 
-
 a = Analysis(
     ['jergador_liberador.py'],
     pathex=[],
